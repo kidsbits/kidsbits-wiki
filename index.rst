@@ -4,7 +4,7 @@
    :caption: kidsbits docs
 
    README.md
-   docs/index
+
 
 
 
