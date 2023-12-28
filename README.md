@@ -5,7 +5,7 @@
 
   [KD0003 kidsbits Coding Robot for Arduino](https://kd0003-kidsbits-coding-robot.readthedocs.io/en/latest/)
 
-
+  [KD3017 kidsbits intelligent traffic system kit](https://kd3017-kidsbits-intelligent-traffic-system-kit.readthedocs.io/en/latest/)
 
 
 
