@@ -7,7 +7,7 @@
 
   [KD3017 kidsbits intelligent traffic system kit](https://kd3017-kidsbits-intelligent-traffic-system-kit.readthedocs.io/en/latest/)
 
-
+  [KD3020 kidsbits Smart Engineering Kit ](https://kd3020-kidsbits-smart-engineering-kit.readthedocs.io/en/latest/)
 
 ---
 # Raspberry pi pico
