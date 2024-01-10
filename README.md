@@ -31,9 +31,20 @@
 
 
 
-
-
 ---
+
+# Software tutorial
+
+* [KidsBlock](https://kidsblocksite.readthedocs.io/en/latest/)
+
+
+
+
+
+
+
+
+
 
 
 
