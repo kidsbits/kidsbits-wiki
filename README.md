@@ -11,7 +11,7 @@
 
 * [KD3021 Kidsbits STEM Education Smart Farm Kit for Arduino Compatible with Lego](http://kd3021-kidsbits-stem-education-smart-farm-kit.readthedocs.io/)
 
-
+* [KD3022](http://kidsbits-kd3022.readthedocs.io)
 
 
 
