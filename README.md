@@ -41,6 +41,7 @@
 # Software tutorial
 
 * [KidsBlock](https://kidsblocksite.readthedocs.io/en/latest/)
+* [Arduino](https://getting-started-with-arduino.readthedocs.io/en/latest/)
 
 
 
