@@ -8,7 +8,7 @@
 * [KD3020 kidsbits Smart Engineering Kit ](https://wiki.kidsbits.cc/projects/KD3020/en/latest/)
 * [KD3021 Kidsbits STEM Education Smart Farm Kit for Arduino Compatible with Lego](https://wiki.kidsbits.cc/projects/KD3021/en/latest/)
 * [KD3022](https://wiki.kidsbits.cc/projects/KD3022/en/latest/)
-* [Kidsbits STEM Electronic Building Blocks Smart Fan Kit](https://wiki.kidsbits.cc/projects/KD3023/en/latest/)
+* [KD3023 Kidsbits STEM Electronic Building Blocks Smart Fan Kit](https://wiki.kidsbits.cc/projects/KD3023/en/latest/)
 
 
 
