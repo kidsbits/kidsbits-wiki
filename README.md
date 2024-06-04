@@ -40,7 +40,7 @@
 
 * [KD3022 Kidsbits STEM Electronic Building Blocks Smart Binsite Kit](https://wiki.kidsbits.cc/projects/KD3022/en/latest/)
 * [KD3023 Kidsbits STEM Electronic Building Blocks Smart Fan Kit](https://wiki.kidsbits.cc/projects/KD3023/en/latest/)
-* [KD3024 Kidsbits STEM Mini Meteorological Station for kidspico](https://wiki.kidsbits.cc/projects/KD3024/en/latest/)
+* [KD3024 Kidsbits STEM Electronic Building Blocks Mini Meteorological Station Kit](https://wiki.kidsbits.cc/projects/KD3024/en/latest/)
 
 
 
