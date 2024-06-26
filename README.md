@@ -7,10 +7,10 @@
 * [KD3017 kidsbits intelligent traffic system kit](https://wiki.kidsbits.cc/projects/KD3017/en/latest/)
 * [KD3020 kidsbits Smart Engineering Kit ](https://wiki.kidsbits.cc/projects/KD3020/en/latest/)
 
-* [KD3021 KidsbitsĀ STEM Education Smart Farm Kit for Arduino Compatible with Lego](https://wiki.kidsbits.cc/projects/KD3021/en/latest/)
+* [KD3021 Kidsbits STEM Education Smart Farm Kit for Arduino Compatible with Lego](https://wiki.kidsbits.cc/projects/KD3021/en/latest/)
 
 
-* [KD3025 Kidsbits STEM电子积木 智能安全屋套件](https://wiki.kidsbits.cc/projects/KD3025/en/latest/)
+* [KD3025 Kidsbits STEM Smart Safe House Kit](https://wiki.kidsbits.cc/projects/KD3025/en/latest/)
 
 
 * [KD2075 KidsUno STEM Education Development Board](https://wiki.kidsbits.cc/projects/KD2075/en/latest/)
