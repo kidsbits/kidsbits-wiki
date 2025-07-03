@@ -27,6 +27,10 @@
 ---
 # STEM Sensors
 
+* [KD2126 Kidsbits I2S Audio Power Amplifier Module](https://wiki.kidsbits.cc/projects/KD2126/en/latest/)
+* [KD2127 Kidsbits MES Microphone Module](https://wiki.kidsbits.cc/projects/KD2127/en/latest/)
+
+
 ---
 # Software tutorial
 * [KidsBlock](https://kidsblocksite.readthedocs.io/en/latest/)
