@@ -33,7 +33,7 @@
 
 ---
 # Software tutorial
-* [KidsBlock](https://kidsblocksite.readthedocs.io/en/latest/)
+* [KidsBlock](https://www.kidsblock.cc)
 
 
 
