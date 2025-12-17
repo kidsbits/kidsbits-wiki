@@ -34,7 +34,7 @@
 
 ---
 # Software tutorial
-* [KidsBlock](https://www.kidsblock.cc)
+* [KidsBlock](https://wiki.kidsbits.cc/projects/KidsBlock/)
 
 
 
