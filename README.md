@@ -30,6 +30,7 @@
 * [KD2126 KD3027 KD3028 Kidsbits I2S Audio Power Amplifier Module](https://wiki.kidsbits.cc/projects/KD2126/en/latest/)
 * [KD2127 Kidsbits MES Microphone Module](https://wiki.kidsbits.cc/projects/KD2127/en/latest/)
 * [KD2129 Kidsbits STEM Electronic Brick ICS Microphone Module](https://wiki.kidsbits.cc/projects/KD2129/en/latest/)
+* [KD2130 Kidsbits I2S Audio Power Amplifier Module](https://wiki.kidsbits.cc/projects/KD2130/en/latest/)
 
 
 ---
